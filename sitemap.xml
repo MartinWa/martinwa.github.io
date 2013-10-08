@@ -1,33 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://yoursite.com/blog/2013/10/08/first/</loc>
+        <loc>http://MartinWa.github.io/blog/2013/10/08/first/</loc>
         <lastmod>2013-10-08T14:45:51+02:00</lastmod>
     </url>
     <url>
         <loc>
-            http://yoursite.com/blog/2013/10/08/zombie-ninjas-attack-a-survivors-retrospective/
+            http://MartinWa.github.io/blog/2013/10/08/zombie-ninjas-attack-a-survivors-retrospective/
         </loc>
         <lastmod>2013-10-08T14:46:17+02:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/blog/2013/10/08/super-awesome/</loc>
-        <lastmod>2013-10-08T14:52:03+02:00</lastmod>
+        <loc>http://MartinWa.github.io/blog/2013/10/08/uploading-directly-to-blob-storage/</loc>
+        <lastmod>2013-10-08T15:23:30+02:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/blog/archives/</loc>
-        <lastmod>2013-10-08T14:52:03+02:00</lastmod>
+        <loc>http://MartinWa.github.io/blog/archives/</loc>
+        <lastmod>2013-10-08T15:23:30+02:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/</loc>
-        <lastmod>2013-10-08T14:52:03+02:00</lastmod>
+        <loc>http://MartinWa.github.io/</loc>
+        <lastmod>2013-10-08T15:23:30+02:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/robots.txt</loc>
+        <loc>http://MartinWa.github.io/robots.txt</loc>
         <lastmod>2013-10-08T14:44:22+02:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/super-awesome/</loc>
+        <loc>http://MartinWa.github.io/super-awesome/</loc>
         <lastmod>2013-10-08T14:49:29+02:00</lastmod>
     </url>
 </urlset>
